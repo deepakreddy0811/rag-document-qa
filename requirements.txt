@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+pypdf
+fastapi
+uvicorn
+pydantic
+# optional, only if you wire in OpenAI for real answers:
+# openai
